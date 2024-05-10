@@ -10,6 +10,7 @@ const CompressionPlugin = require('compression-webpack-plugin')
 module.exports = {
   publicPath: "",
   productionSourceMap: false,
+  outputDir: "docs",
   devServer: {
     host: '0.0.0.0',
     openPage: "#/login",
