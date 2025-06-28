@@ -20,19 +20,19 @@ BackAPI Docs：
 
 ```bash
 # install dependencies
-yarn install
+npm install
 
 # serve with hot reload at localhost:8080
-yarn serve
+npm run serve
 
 # build for production with minification
-yarn build
+npm run build
 
 # analysis your dist files
-yarn analysis
+npm run analysis
 
 # deploy your application
-yarn deploy
+npm run deploy
 
 ```
 
